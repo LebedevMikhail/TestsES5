@@ -1,0 +1,32 @@
+﻿#container {
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+div.question {
+    position: absolute;
+    left: 15%;
+    top: 30%;
+}
+
+#answerButton {
+    bottom: 5%;
+}
+
+#startButton {
+    position: absolute;
+    left: 55%;
+    bottom: 10%;
+}
+#restartButton {
+    position: absolute;
+    left: 40%;
+    bottom: 10%;
+}
